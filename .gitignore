@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+history/
+
+# Target
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Serenity
+serenity-bdd/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
